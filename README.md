@@ -1,2 +1,2 @@
-# Python-CS50_Python
-These are Python files for my assignments in CS50 Python
+# CS50P-PSet
+These are files for my problem sets in CS50 Python
